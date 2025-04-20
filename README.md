@@ -10,6 +10,7 @@
 - **Lovable Folder**
 - **Devin Folder**
 - **Replit Folder**
+- **RooCode folder (already open source)**
 - **Cursor Folder**  
    - cursor ask.txt *(coming soon!)*  
    - cursor edit.txt *(coming soon!)*  
@@ -33,7 +34,7 @@ Check out **ZeroLeaks**, a service designed to help startups **identify and secu
 🚨 **Note:** We no longer use GitHub issues for roadmap and feedback.  
 Please visit [System Prompts Roadmap & Feedback](https://systemprompts.featurebase.app/) to share your suggestions and track upcoming features.
 
-🆕 **LATEST UPDATE:** 19/04/2025 
+🆕 **LATEST UPDATE:** 20/04/2025 
 
 ## 📊 **Star History**
 
