@@ -1,6 +1,6 @@
-# **FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent & Windsurf Agent System Prompts, Tools & AI Models**  
+# **FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent & VSCode Agent (And other Open Sourced) System Prompts, Tools & AI Models**  
 
-🚀 **I managed to obtain FULL official v0, Manus, Cursor, Same.dev, Lovable, Devin, Replit Agent & Windsurf Agent system prompts and internal tools.**
+🚀 **I managed to obtain FULL official v0, Manus, Cursor, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent & VSCode Agent system prompts and internal tools.**
 
 📜 Over **6,500+ lines** of insights into their structure and functionality.  
 
@@ -9,12 +9,15 @@
 - **Manus Folder**
 - **Lovable Folder**
 - **Devin Folder**
+- **Same.dev Folder**
 - **Replit Folder**
-- **RooCode folder (already open source)**
 - **Windsurf Agent folder**
-- **Cursor Folder**  
-   - cursor ask.txt *(coming soon!)*  
-   - cursor edit.txt *(coming soon!)*  
+- **VSCode (Copilot) Agent folder**
+- **Cursor Folder**
+- **Open Source prompts folder**
+  - Codex CLI
+  - Cline
+  - RooCode
 
 ---
 
@@ -35,7 +38,7 @@ Check out **ZeroLeaks**, a service designed to help startups **identify and secu
 🚨 **Note:** We no longer use GitHub issues for roadmap and feedback.  
 Please visit [System Prompts Roadmap & Feedback](https://systemprompts.featurebase.app/) to share your suggestions and track upcoming features.
 
-🆕 **LATEST UPDATE:** 20/04/2025 
+🆕 **LATEST UPDATE:** 21/04/2025 
 
 ## 📊 **Star History**
 
