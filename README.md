@@ -1,5 +1,7 @@
 # **FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent & VSCode Agent (And other Open Sourced) System Prompts, Tools & AI Models**  
 
+(All the published system prompts are extracted by myself, except the already open sourced ones and Manus)
+
 🚀 **I managed to obtain FULL official v0, Manus, Cursor, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent & VSCode Agent system prompts and internal tools.**
 
 📜 Over **6,500+ lines** of insights into their structure and functionality.  
@@ -40,7 +42,7 @@ Check out **ZeroLeaks**, a service designed to help startups **identify and secu
 🚨 **Note:** We no longer use GitHub issues for roadmap and feedback.  
 Please visit [System Prompts Roadmap & Feedback](https://systemprompts.featurebase.app/) to share your suggestions and track upcoming features.
 
-🆕 **LATEST UPDATE:** 21/04/2025 
+🆕 **LATEST UPDATE:** 22/04/2025 
 
 ## 📊 **Star History**
 
