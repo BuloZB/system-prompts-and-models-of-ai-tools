@@ -1,10 +1,10 @@
-# **FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent & VSCode Agent (And other Open Sourced) System Prompts, Tools & AI Models**  
+# **FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models**  
 
-(All the published system prompts are extracted by myself, except the already open sourced ones and Manus)
+(All the published system prompts are extracted by myself, except the already open sourced ones, Manus and Dia, which are contributions)
 
-🚀 **I managed to obtain FULL official v0, Manus, Cursor, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent & VSCode Agent system prompts and internal tools.**
+🚀 **I managed to obtain FULL official v0, Manus, Cursor, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia browser & Trae AI system prompts and internal tools.**
 
-📜 Over **6,500+ lines** of insights into their structure and functionality.  
+📜 Over **7000+ lines** of insights into their structure and functionality.  
 
 ## 📂 **Available Files**
 - **v0 Folder**  
@@ -13,10 +13,12 @@
 - **Devin Folder**
 - **Same.dev Folder**
 - **Replit Folder**
-- **Windsurf Agent folder**
-- **VSCode (Copilot) Agent folder**
+- **Windsurf Agent Folder**
+- **VSCode (Copilot) Agent Folder**
 - **Cursor Folder**
-- **Open Source prompts folder**
+- **Dia Folder**
+- **Trae AI Folder**
+- **Open Source prompts Folder**
   - Codex CLI
   - Cline
   - Bolt
@@ -40,7 +42,7 @@ Check out **[ZeroLeaks](https://0leaks.vercel.app)**, a service designed to help
 🚨 **Note:** We no longer use GitHub issues for roadmap and feedback.  
 Please visit [System Prompts Roadmap & Feedback](https://systemprompts.featurebase.app/) to share your suggestions and track upcoming features.
 
-🆕 **LATEST UPDATE:** 30/04/2025 
+🆕 **LATEST UPDATE:** 15/05/2025 
 
 ## 📊 **Star History**
 
