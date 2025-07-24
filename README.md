@@ -1,10 +1,28 @@
 # **FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI, Cluely, Perplexity, Xcode, Spawn & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models**  
 
+---
+
+# Tired of buiding trash games with generic AI tools?
+<a href="https://spawn.co" target="_blank" rel="noopener noreferrer">
+  <img width="200" height="200" alt="Spawn.co Logo" src="https://github.com/user-attachments/assets/669cef9b-eec1-4add-9a02-fb7e12602126" align="right" />
+</a>
+
+Stop **prototyping**. Start **shipping**.
+
+While other tools get stuck on prompts, [spawn.co](https://www.spawn.co/) uses cutting-edge AI to build and deploy complete games. I've spawned 4 complete game variants in under 20 minutes. Not prototypes - actual playable games with save systems, multiplayer, monetization ready to ship.
+
+It’s not marketing fluff, it’s just a better way to build.
+
+**Build. Ship. Done.**
+
+---
+
 <a href="https://trendshift.io/repositories/14084" target="_blank"><img src="https://trendshift.io/api/badge/repositories/14084" alt="x1xhlol%2Fsystem-prompts-and-models-of-ai-tools | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
 📜 Over **8500+ lines** of insights into their structure and functionality.  
 
 [![Build Status](https://app.cloudback.it/badge/x1xhlol/system-prompts-and-models-of-ai-tools)](https://cloudback.it)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/x1xhlol/system-prompts-and-models-of-ai-tools)
 
 ---
 
@@ -58,7 +76,8 @@ You can show your support via:
   - Codex CLI  
   - Cline  
   - Bolt  
-  - RooCode  
+  - RooCode
+  - Lumo
 
 ---
 
@@ -66,7 +85,7 @@ You can show your support via:
 
 > Open an issue.
 
-> **Latest Update:** 21/07/2025
+> **Latest Update:** 23/07/2025
 
 ---
 
