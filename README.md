@@ -16,6 +16,12 @@ It’s not marketing fluff, it’s just a better way to build.
 **Build. Ship. Done.**
 
 ---
+<a href="https://discord.gg/NwzrWErdMU" target="_blank">
+  <img src="https://img.shields.io/discord/1402660735833604126?label=LeaksLab%20Discord&logo=discord&style=for-the-badge" alt="LeaksLab Discord" />
+</a>
+
+> **Join the Conversation:** New system instructions are released on Discord **before** they appear in this repository. Get early access and discuss them in real time.
+
 
 <a href="https://trendshift.io/repositories/14084" target="_blank"><img src="https://trendshift.io/api/badge/repositories/14084" alt="x1xhlol%2Fsystem-prompts-and-models-of-ai-tools | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
@@ -87,7 +93,7 @@ You can show your support via:
 
 > Open an issue.
 
-> **Latest Update:** 31/07/2025
+> **Latest Update:** 06/08/2025
 
 ---
 
