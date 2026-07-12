@@ -68,7 +68,7 @@ Sponsor the most comprehensive repository of AI system prompts and reach thousan
 
 > Open an issue.
 
-> **Latest Update:** 10/05/2026
+> **Latest Update:** 12/07/2026
 
 ---
 
@@ -76,17 +76,6 @@ Sponsor the most comprehensive repository of AI system prompts and reach thousan
 
 - **X:** [Lucknite](https://x.com/Lucknite)
 - **Discord**: `x1xhlol`
-- **Email**: `lucasvalbuena@pm.me`
-
-
-## Star History
-
-<a href="https://www.star-history.com/#x1xhlol/system-prompts-and-models-of-ai-tools&Date">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=x1xhlol/system-prompts-and-models-of-ai-tools&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=x1xhlol/system-prompts-and-models-of-ai-tools&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=x1xhlol/system-prompts-and-models-of-ai-tools&type=Date" />
-  </picture>
-</a>
+- **Email**: `lucasvalbuena@pm.me
 
 **Drop a star if you find this useful!**
