@@ -30,6 +30,15 @@
 
 ---
 
+## Security Notice for AI Startups
+
+> **Warning:** If you're an AI startup, make sure your data is secure. Exposed prompts or AI models can easily become a target for hackers.
+
+> **Important:** Interested in securing your AI systems?  
+> Check out **[ZeroLeaks](https://zeroleaks.ai/)**, a service designed to help startups **identify and secure** prompt injection and system prompt extraction risks.
+
+---
+
 ## Support the Project
 
 If you find this collection valuable and appreciate the effort involved in obtaining and sharing these insights, please consider supporting the project.
@@ -44,15 +53,6 @@ You can show your support via:
 - **Ko-fi:** https://ko-fi.com/lucknite
 
 Thank you for your support!
-
----
-
-## Security Notice for AI Startups
-
-> **Warning:** If you're an AI startup, make sure your data is secure. Exposed prompts or AI models can easily become a target for hackers.
-
-> **Important:** Interested in securing your AI systems?  
-> Check out **[ZeroLeaks](https://zeroleaks.ai/)**, a service designed to help startups **identify and secure** prompt injection and system prompt extraction risks.
 
 ---
 
